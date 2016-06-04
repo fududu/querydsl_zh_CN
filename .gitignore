@@ -14,3 +14,32 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# Package Files #
+target/
+*.jar
+*.war
+*.ear
+
+# eclipse ignores
+.settings/
+.project
+.classpath
+
+# idea ignores
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# temp ignore
+logs/
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+.DS_Store
+Thumbs.db

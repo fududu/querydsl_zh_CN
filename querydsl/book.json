@@ -1,0 +1,26 @@
+{
+  "language" : "zh-hans",
+  "title": "QueryDsl 官方教程中文版翻译",
+  "author": "Fuchun",
+  "links": {
+    "sidebar": {
+      "阿影的黄金时代": "http://www.aying.org"
+    }
+  },
+  "plugins": [
+    "-search",
+    "tbfed-pagefooter",
+    "include-codeblock"
+  ],
+  "pluginsConfig": {
+    "tbfed-pagefooter": {
+      "copyright":"Copyright &copy <a href='http://www.aying.org'>Aying.Org</a> 2014-2016",
+      "modify_label": "LastModified：",
+      "modify_format": "YYYY/MM/DD HH:mm"
+    }
+  },
+  "gitbook": ">=2.0.0",
+  "structure": {
+    "readme": "README.md"
+  }
+}
